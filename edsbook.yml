@@ -16,7 +16,7 @@ site:
     - title: About
       url: https://eds-book.github.io/preamble/about
     - title: Notebooks
-      url: /https://eds-book.github.io/notebooks/about
+      url: https://eds-book.github.io/notebooks/about
     - title: Publishing
       url: https://eds-book.github.io/publishing/guidelines
     - title: Community
