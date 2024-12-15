@@ -13,10 +13,14 @@ site:
     logo_dark: https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook_logo-black.png
 
   nav:
-    - title: Home
-      url: https://eds-book.github.io
-    - title: Gallery
-      url: https://eds-book.github.io/notebook-gallery/
+    - title: About
+      url: https://eds-book.github.io/preamble/about
+    - title: Notebooks
+      url: /https://eds-book.github.io/notebooks/about
+    - title: Publishing
+      url: https://eds-book.github.io/publishing/guidelines
+    - title: Community
+      url: https://eds-book.github.io/community/about
   actions:
-    - title: EDS book
+    - title: Home
       url: https://eds-book.github.io
