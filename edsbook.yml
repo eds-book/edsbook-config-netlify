@@ -14,27 +14,27 @@ site:
 
   nav:
     - title: About
-      url: https://eds-book.github.io/about
+      url: https://eds-book.netlify.app/about
     - title: Gallery
-      url: https://eds-book.github.io/gallery
+      url: https://eds-book.netlify.app/gallery
     - title: Contribute
-      url: https://eds-book.github.io/contribute
+      url: https://eds-book.netlify.app/contribute
     - title: Guidelines
       children:
         - title: Guide for Authors
-          url: https://eds-book.github.io/guidelines-authors
+          url: https://eds-book.netlify.app/guidelines-authors
         - title: Guide for Reviewers
-          url: https://eds-book.github.io/guidelines-reviewers
+          url: https://eds-book.netlify.app/guidelines-reviewers
         - title: Guide for Editors
-          url: https://eds-book.github.io/guidelines-editors
+          url: https://eds-book.netlify.app/guidelines-editors
         - title: Guide for Editor in Chief
-          url: https://eds-book.github.io/guidelines-eic
+          url: https://eds-book.netlify.app/guidelines-eic
         - title: Guide for Community
-          url: https://eds-book.github.io/guidelines-community
+          url: https://eds-book.netlify.app/guidelines-community
     - title: Community
-      url: https://eds-book.github.io/community
+      url: https://eds-book.netlify.app/community
     - title: Cite
-      url: https://eds-book.github.io/cite
+      url: https://eds-book.netlify.app/cite
   actions:
     - title: Home
-      url: https://eds-book.github.io
+      url: https://eds-book.netlify.app
